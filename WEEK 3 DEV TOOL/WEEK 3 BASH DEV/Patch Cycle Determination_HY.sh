@@ -1,5 +1,5 @@
 #ISS 212
-#Week 3 Dev Tool - Network Traffic Analysis Example
+#Week 3 Dev Tool - Patch Cycle
  read -p "Enter the year to check the patch cycle: " year
  if [ "$year" -lt 2000 ]; then
  	echo "Not within the managed patch period."

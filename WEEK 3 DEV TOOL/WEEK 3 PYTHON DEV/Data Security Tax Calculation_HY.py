@@ -1,5 +1,5 @@
 #ISS 212
-#Week 3 Dev Tool - Network Traffic Analysis Example
+#Week 3 Dev Tool - Data Security Tax Calculation
 data_usage = float(input("Enter your annual data usage in MB: "))
 if data_usage <= 85528:
 	tax = (0.18 * data_usage) - 556.02

@@ -1,5 +1,5 @@
 #ISS 212
-#Week 3 Dev Tool - Network Traffic Analysis Example
+#Week 3 Dev Tool - Data Security Tax Calculation
  read -p "Enter your annual data usage in MB: " data_usage
  if [ "$data_usage" -le 85528 ]; then
  	tax=$((data_usage * 18 / 100 - 556))
