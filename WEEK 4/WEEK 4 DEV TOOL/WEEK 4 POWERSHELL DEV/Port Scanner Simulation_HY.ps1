@@ -1,3 +1,5 @@
+#ISS 212
+#Week 4 Dev Tool - Port Scanner Simulation
 #Prompt the user to enter an IP adderess and store it in the variable $ip
 $ip = Read-Host "Enter IP Address"
 

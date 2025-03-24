@@ -1,3 +1,5 @@
+#ISS 212
+#Week 4 Dev Tool - Execitoon Policy Check
 $currentPolicy = Get-ExecutionPolicy
 
 #Print the current execution policy
